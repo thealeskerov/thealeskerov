@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ibrahim
 
-<!--
-**thealeskerov/thealeskerov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student learning fundamentals of security and Python.  
+Aspiring SOC Analyst | Linux, Networking, Log Analysis | Warsaw 🇵🇱
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm a 2nd-year Cybersecurity student at UEHS in Warsaw.  
+📚 Currently focusing on fundamentals: Python, Linux, Networking, and Security basics.  
+🧠 I learn by combining video lessons, hands-on practice, and writing notes in English & Russian.  
+🛡️ I’m building a strong foundation to start my career as a SOC Analyst.  
+🥋 Outside tech, I train in grappling and judo — discipline and consistency matter to me.
+
+---
+
+### 🎯 Current Focus
+- Learning Python for automation and cybersecurity scripting  
+- Studying Linux basics: terminal, file system, permissions, and log analysis  
+- Understanding core networking and security principles  
+- Building habits through daily practice and disciplined learning
+
+---
+
+### 🛠 Tools & Skills
+`Python` `Linux` `Git`  
+`Networking Basics` `Information Security` `Firewalls`
+
