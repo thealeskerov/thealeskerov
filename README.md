@@ -44,7 +44,7 @@ Coming soon!
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/alasgarov-ibrahim/))  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/alasgarov-ibrahim/)])  
 - 💬 Telegram: @thealeskerov  
 - 📧 Email: aleskerovibragim999@gmail.com  
 
